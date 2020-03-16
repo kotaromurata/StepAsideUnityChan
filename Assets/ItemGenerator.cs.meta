@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b34ffe35f2f5a64bb6436b77cef0930
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unitychan: {fileID: 100326, guid: 8f0565f23a2b58541a475bd3c1393052, type: 3}
+  - carPrefab: {fileID: 1904991414214788, guid: f3b0a8af7858e0e4986dc796a0d1b908,
+      type: 2}
+  - coinPrefab: {fileID: 1712210215726094, guid: 8e891fdd4540ac7409eeb5638b210135,
+      type: 2}
+  - conePrefab: {fileID: 1915238816771662, guid: af34a041ceaf927408e1a74edffe0cbe,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
