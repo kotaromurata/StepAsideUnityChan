@@ -990,6 +990,9 @@ MonoBehaviour:
   carPrefab: {fileID: 1904991414214788, guid: f3b0a8af7858e0e4986dc796a0d1b908, type: 2}
   coinPrefab: {fileID: 1712210215726094, guid: 8e891fdd4540ac7409eeb5638b210135, type: 2}
   conePrefab: {fileID: 1915238816771662, guid: af34a041ceaf927408e1a74edffe0cbe, type: 2}
+  coin: {fileID: 1712210215726094, guid: 8e891fdd4540ac7409eeb5638b210135, type: 2}
+  car: {fileID: 1904991414214788, guid: f3b0a8af7858e0e4986dc796a0d1b908, type: 2}
+  cone: {fileID: 1915238816771662, guid: af34a041ceaf927408e1a74edffe0cbe, type: 2}
 --- !u!4 &1150027560
 Transform:
   m_ObjectHideFlags: 0
@@ -1600,7 +1603,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1303538292
+  randomSeed: 1333585087
   InitialModule:
     serializedVersion: 3
     enabled: 1
